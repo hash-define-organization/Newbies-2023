@@ -63,6 +63,6 @@
 
  ## 	:game_die: Shoutout to all the contributors ❤️
 
-<a href="https://github.com/hash-define-organization/Hacktober-Beginners-2022/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=hash-define-organization/Hacktober-Beginners-2022" />
+<a href="https://github.com/hash-define-organization/Newbies-2023/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=hash-define-organization/Newbies-2023" />
 </a>
