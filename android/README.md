@@ -1,3 +1,3 @@
-Participants can list their basic web projects here
+Participants can list their basic android projects here
 
 # Happy Hacking!
