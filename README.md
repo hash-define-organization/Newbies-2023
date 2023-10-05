@@ -3,11 +3,11 @@
 
 # Web
 
-#### :dart: Contributors can list PRs for basic website clones ,beginner web projects and webpage 
+#### :dart: Contributors are welcome to list their pull requests for simple website clones, beginner web projects, and web pages. 
 
 # Android
 
-#### :dart: Contributors can list PRs for basic android
+#### :dart: Contributors can list their pull requests for basic android projects.
 
 # 🌟Getting started
 
